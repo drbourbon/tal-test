@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sound
+	firmwareVersion="3.0.3-alpha"
+	earliestCompatibleFirmware="3.0.0"
+	polyphonic="poly"
+	voicePriority="1"
+	mode="subtractive"
+	lpfMode="12dB"
+	modFXType="none">
+	<osc1
+		type="sample"
+		loopMode="1"
+		reversed="0"
+		timeStretchEnable="0"
+		timeStretchAmount="0">
+		<sampleRanges>
+			<sampleRange
+				rangeTopNote="36"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-036--c1.wav"
+				transpose="24">
+				<zone
+					startSamplePos="0"
+					endSamplePos="70799" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="37"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-037--c#1.wav"
+				transpose="23">
+				<zone
+					startSamplePos="0"
+					endSamplePos="66697" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="38"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-038--d1.wav"
+				transpose="22">
+				<zone
+					startSamplePos="0"
+					endSamplePos="67808" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="39"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-039--d#1.wav"
+				transpose="21">
+				<zone
+					startSamplePos="0"
+					endSamplePos="63581" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="40"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-040--e1.wav"
+				transpose="20">
+				<zone
+					startSamplePos="0"
+					endSamplePos="62219" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="41"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-041--f1.wav"
+				transpose="19">
+				<zone
+					startSamplePos="0"
+					endSamplePos="74567" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="42"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-042--f#1.wav"
+				transpose="18">
+				<zone
+					startSamplePos="0"
+					endSamplePos="66925" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="43"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-043--g1.wav"
+				transpose="17">
+				<zone
+					startSamplePos="0"
+					endSamplePos="68560" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="44"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-044--g#1.wav"
+				transpose="16">
+				<zone
+					startSamplePos="0"
+					endSamplePos="72149" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="45"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-045--a1.wav"
+				transpose="15">
+				<zone
+					startSamplePos="0"
+					endSamplePos="73117" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="46"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-046--a#1.wav"
+				transpose="14">
+				<zone
+					startSamplePos="0"
+					endSamplePos="69001" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="47"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-047--h1.wav"
+				transpose="13">
+				<zone
+					startSamplePos="0"
+					endSamplePos="69407" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="48"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-048--c2.wav"
+				transpose="12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="70241" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="49"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-049--c#2.wav"
+				transpose="11">
+				<zone
+					startSamplePos="0"
+					endSamplePos="70075" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="50"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-050--d2.wav"
+				transpose="10">
+				<zone
+					startSamplePos="0"
+					endSamplePos="66150" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="51"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-051--d#2.wav"
+				transpose="9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="71989" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="52"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-052--e2.wav"
+				transpose="8">
+				<zone
+					startSamplePos="0"
+					endSamplePos="65879" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="53"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-053--f2.wav"
+				transpose="7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="71577" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="54"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-054--f#2.wav"
+				transpose="6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="62500" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="55"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-055--g2.wav"
+				transpose="5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="64861" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="56"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-056--g#2.wav"
+				transpose="4">
+				<zone
+					startSamplePos="0"
+					endSamplePos="62386" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="57"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-057--a2.wav"
+				transpose="3">
+				<zone
+					startSamplePos="0"
+					endSamplePos="67274" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="58"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-058--a#2.wav"
+				transpose="2">
+				<zone
+					startSamplePos="0"
+					endSamplePos="67808" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="59"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-059--h2.wav"
+				transpose="1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="69356" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="60"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-060--c3.wav">
+				<zone
+					startSamplePos="0"
+					endSamplePos="67829" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="61"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-061--c#3.wav"
+				transpose="-1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="67734" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="62"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-062--d3.wav"
+				transpose="-2">
+				<zone
+					startSamplePos="0"
+					endSamplePos="64814" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="63"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-063--d#3.wav"
+				transpose="-3">
+				<zone
+					startSamplePos="0"
+					endSamplePos="67803" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="64"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-064--e3.wav"
+				transpose="-4">
+				<zone
+					startSamplePos="0"
+					endSamplePos="65729" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="65"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-065--f3.wav"
+				transpose="-5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="70107" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="66"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-066--f#3.wav"
+				transpose="-6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="66076" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="67"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-067--g3.wav"
+				transpose="-7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="66865" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="68"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-068--g#3.wav"
+				transpose="-8">
+				<zone
+					startSamplePos="0"
+					endSamplePos="65232" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="69"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-069--a3.wav"
+				transpose="-9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="65956" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="70"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-070--a#3.wav"
+				transpose="-10">
+				<zone
+					startSamplePos="0"
+					endSamplePos="63458" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="71"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-071--h3.wav"
+				transpose="-11">
+				<zone
+					startSamplePos="0"
+					endSamplePos="63505" />
+			</sampleRange>
+			<sampleRange
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Muffled bass/tal2-05-Fairlight Muffled bass-072--c4.wav"
+				transpose="-12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="67288" />
+			</sampleRange>
+		</sampleRanges>
+	</osc1>
+	<osc2
+		type="square"
+		transpose="0"
+		cents="0"
+		retrigPhase="-1" />
+	<lfo1 type="triangle" syncLevel="0" />
+	<lfo2 type="triangle" />
+	<unison num="1" detune="1" />
+	<compressor
+		syncLevel="6"
+		attack="327244"
+		release="936" />
+	<delay
+		pingPong="1"
+		analog="0"
+		syncLevel="7" />
+	<defaultParams
+		arpeggiatorGate="0x00000000"
+		portamento="0x80000000"
+		compressorShape="0xDC28F5B2"
+		oscAVolume="0x7FFFFFFF"
+		oscAPulseWidth="0x00000000"
+		oscBVolume="0x80000000"
+		oscBPulseWidth="0x00000000"
+		noiseVolume="0x80000000"
+		volume="0x4A000000"
+		pan="0x00000000"
+		lpfFrequency="0x7FFFFFD2"
+		lpfResonance="0x80000000"
+		hpfFrequency="0x80000000"
+		hpfResonance="0x80000000"
+		lfo1Rate="0x26000000"
+		lfo2Rate="0x00000000"
+		modulator1Amount="0x80000000"
+		modulator1Feedback="0x80000000"
+		modulator2Amount="0x80000000"
+		modulator2Feedback="0x80000000"
+		carrier1Feedback="0x80000000"
+		carrier2Feedback="0x80000000"
+		modFXRate="0xC7AE146E"
+		modFXDepth="0xAE147AD9"
+		delayRate="0xF0000000"
+		delayFeedback="0x80000000"
+		reverbAmount="0xB8000000"
+		arpeggiatorRate="0x00000000"
+		stutterRate="0x00000000"
+		sampleRateReduction="0x80000000"
+		bitCrush="0x80000000"
+		modFXOffset="0x00000000"
+		modFXFeedback="0x1EB851CF">
+		<envelope1
+			attack="0x80000000"
+			decay="0xE6666654"
+			sustain="0x7FFFFFFF"
+			release="0x7AE14781" />
+		<envelope2
+			attack="0xE6666654"
+			decay="0xE6666654"
+			sustain="0xFFFFFFE9"
+			release="0xE6666654" />
+		<patchCables>
+			<patchCable
+				source="velocity"
+				destination="volume"
+				amount="0x3FFFFFE8" />
+			<patchCable
+				source="random"
+				destination="pitch"
+				amount="0x0147AE14" />
+		</patchCables>
+		<equalizer
+			bass="0x00000000"
+			treble="0x00000000"
+			bassFrequency="0x00000000"
+			trebleFrequency="0x00000000" />
+	</defaultParams>
+	<arpeggiator
+		mode="off"
+		numOctaves="2"
+		syncLevel="7" />
+	<modKnobs>
+		<modKnob controlsParam="pan" />
+		<modKnob controlsParam="volumePostFX" />
+		<modKnob controlsParam="lpfResonance" />
+		<modKnob controlsParam="lpfFrequency" />
+		<modKnob controlsParam="env1Release" />
+		<modKnob controlsParam="env1Attack" />
+		<modKnob controlsParam="delayFeedback" />
+		<modKnob controlsParam="delayRate" />
+		<modKnob controlsParam="reverbAmount" />
+		<modKnob controlsParam="volumePostReverbSend" patchAmountFromSource="compressor" />
+		<modKnob controlsParam="pitch" patchAmountFromSource="lfo1" />
+		<modKnob controlsParam="lfo1Rate" />
+		<modKnob controlsParam="portamento" />
+		<modKnob controlsParam="stutterRate" />
+		<modKnob controlsParam="bitcrushAmount" />
+		<modKnob controlsParam="sampleRateReduction" />
+	</modKnobs>
+</sound>

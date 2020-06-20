@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sound
+	firmwareVersion="3.0.3-alpha"
+	earliestCompatibleFirmware="3.0.0"
+	polyphonic="poly"
+	voicePriority="1"
+	mode="subtractive"
+	lpfMode="12dB"
+	modFXType="none">
+	<osc1
+		type="sample"
+		loopMode="1"
+		reversed="0"
+		timeStretchEnable="0"
+		timeStretchAmount="0">
+		<sampleRanges>
+			<sampleRange
+				rangeTopNote="36"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-036--c1.wav"
+				transpose="24">
+				<zone
+					startSamplePos="0"
+					endSamplePos="97775" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="37"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-037--c#1.wav"
+				transpose="23">
+				<zone
+					startSamplePos="0"
+					endSamplePos="91994" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="38"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-038--d1.wav"
+				transpose="22">
+				<zone
+					startSamplePos="0"
+					endSamplePos="86615" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="39"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-039--d#1.wav"
+				transpose="21">
+				<zone
+					startSamplePos="0"
+					endSamplePos="83572" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="40"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-040--e1.wav"
+				transpose="20">
+				<zone
+					startSamplePos="0"
+					endSamplePos="80990" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="41"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-041--f1.wav"
+				transpose="19">
+				<zone
+					startSamplePos="0"
+					endSamplePos="77651" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="42"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-042--f#1.wav"
+				transpose="18">
+				<zone
+					startSamplePos="0"
+					endSamplePos="75143" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="43"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-043--g1.wav"
+				transpose="17">
+				<zone
+					startSamplePos="0"
+					endSamplePos="71622" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="44"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-044--g#1.wav"
+				transpose="16">
+				<zone
+					startSamplePos="0"
+					endSamplePos="73339" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="45"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-045--a1.wav"
+				transpose="15">
+				<zone
+					startSamplePos="0"
+					endSamplePos="73768" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="46"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-046--a#1.wav"
+				transpose="14">
+				<zone
+					startSamplePos="0"
+					endSamplePos="64048" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="47"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-047--h1.wav"
+				transpose="13">
+				<zone
+					startSamplePos="0"
+					endSamplePos="64816" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="48"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-048--c2.wav"
+				transpose="12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="66972" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="49"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-049--c#2.wav"
+				transpose="11">
+				<zone
+					startSamplePos="0"
+					endSamplePos="62911" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="50"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-050--d2.wav"
+				transpose="10">
+				<zone
+					startSamplePos="0"
+					endSamplePos="64783" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="51"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-051--d#2.wav"
+				transpose="9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="60602" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="52"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-052--e2.wav"
+				transpose="8">
+				<zone
+					startSamplePos="0"
+					endSamplePos="56768" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="53"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-053--f2.wav"
+				transpose="7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="60794" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="54"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-054--f#2.wav"
+				transpose="6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="63993" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="55"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-055--g2.wav"
+				transpose="5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="59670" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="56"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-056--g#2.wav"
+				transpose="4">
+				<zone
+					startSamplePos="0"
+					endSamplePos="62137" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="57"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-057--a2.wav"
+				transpose="3">
+				<zone
+					startSamplePos="0"
+					endSamplePos="58467" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="58"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-058--a#2.wav"
+				transpose="2">
+				<zone
+					startSamplePos="0"
+					endSamplePos="61627" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="59"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-059--h2.wav"
+				transpose="1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="55964" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="60"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-060--c3.wav">
+				<zone
+					startSamplePos="0"
+					endSamplePos="57269" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="61"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-061--c#3.wav"
+				transpose="-1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="55534" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="62"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-062--d3.wav"
+				transpose="-2">
+				<zone
+					startSamplePos="0"
+					endSamplePos="53317" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="63"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-063--d#3.wav"
+				transpose="-3">
+				<zone
+					startSamplePos="0"
+					endSamplePos="59113" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="64"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-064--e3.wav"
+				transpose="-4">
+				<zone
+					startSamplePos="0"
+					endSamplePos="54259" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="65"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-065--f3.wav"
+				transpose="-5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="55303" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="66"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-066--f#3.wav"
+				transpose="-6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="54307" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="67"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-067--g3.wav"
+				transpose="-7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="55539" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="68"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-068--g#3.wav"
+				transpose="-8">
+				<zone
+					startSamplePos="0"
+					endSamplePos="50528" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="69"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-069--a3.wav"
+				transpose="-9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="54851" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="70"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-070--a#3.wav"
+				transpose="-10">
+				<zone
+					startSamplePos="0"
+					endSamplePos="50605" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="71"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-071--h3.wav"
+				transpose="-11">
+				<zone
+					startSamplePos="0"
+					endSamplePos="52089" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="72"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-072--c4.wav"
+				transpose="-12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="54083" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="73"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-073--c#4.wav"
+				transpose="-13">
+				<zone
+					startSamplePos="0"
+					endSamplePos="50857" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="74"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-074--d4.wav"
+				transpose="-14">
+				<zone
+					startSamplePos="0"
+					endSamplePos="53163" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="75"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-075--d#4.wav"
+				transpose="-15">
+				<zone
+					startSamplePos="0"
+					endSamplePos="51556" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="76"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-076--e4.wav"
+				transpose="-16">
+				<zone
+					startSamplePos="0"
+					endSamplePos="51403" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="77"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-077--f4.wav"
+				transpose="-17">
+				<zone
+					startSamplePos="0"
+					endSamplePos="52630" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="78"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-078--f#4.wav"
+				transpose="-18">
+				<zone
+					startSamplePos="0"
+					endSamplePos="49226" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="79"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-079--g4.wav"
+				transpose="-19">
+				<zone
+					startSamplePos="0"
+					endSamplePos="51240" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="80"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-080--g#4.wav"
+				transpose="-20">
+				<zone
+					startSamplePos="0"
+					endSamplePos="53267" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="81"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-081--a4.wav"
+				transpose="-21">
+				<zone
+					startSamplePos="0"
+					endSamplePos="52858" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="82"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-082--a#4.wav"
+				transpose="-22">
+				<zone
+					startSamplePos="0"
+					endSamplePos="49726" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="83"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-083--h4.wav"
+				transpose="-23">
+				<zone
+					startSamplePos="0"
+					endSamplePos="50399" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="84"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-084--c5.wav"
+				transpose="-24">
+				<zone
+					startSamplePos="0"
+					endSamplePos="47653" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="85"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-085--c#5.wav"
+				transpose="-25">
+				<zone
+					startSamplePos="0"
+					endSamplePos="43223" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="86"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-086--d5.wav"
+				transpose="-26">
+				<zone
+					startSamplePos="0"
+					endSamplePos="45472" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="87"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-087--d#5.wav"
+				transpose="-27">
+				<zone
+					startSamplePos="0"
+					endSamplePos="45078" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="88"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-088--e5.wav"
+				transpose="-28">
+				<zone
+					startSamplePos="0"
+					endSamplePos="42718" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="89"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-089--f5.wav"
+				transpose="-29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="43178" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="90"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-090--f#5.wav"
+				transpose="-30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="44723" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="91"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-091--g5.wav"
+				transpose="-31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="44216" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="92"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-092--g#5.wav"
+				transpose="-32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="42297" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="93"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-093--a5.wav"
+				transpose="-33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="42847" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="94"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-094--a#5.wav"
+				transpose="-34">
+				<zone
+					startSamplePos="0"
+					endSamplePos="43650" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="95"
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-095--h5.wav"
+				transpose="-35">
+				<zone
+					startSamplePos="0"
+					endSamplePos="41970" />
+			</sampleRange>
+			<sampleRange
+				fileName="SAMPLES/Multisamples/TAL multisamples/#MORE HS/STEREO/Fairlight Kalimba 1/tal2-11-Fairlight Kalimba hi-096--c6.wav"
+				transpose="-36">
+				<zone
+					startSamplePos="0"
+					endSamplePos="40458" />
+			</sampleRange>
+		</sampleRanges>
+	</osc1>
+	<osc2
+		type="square"
+		transpose="0"
+		cents="0"
+		retrigPhase="-1" />
+	<lfo1 type="triangle" syncLevel="0" />
+	<lfo2 type="triangle" />
+	<unison num="1" detune="1" />
+	<compressor
+		syncLevel="6"
+		attack="327244"
+		release="936" />
+	<delay
+		pingPong="1"
+		analog="0"
+		syncLevel="7" />
+	<defaultParams
+		arpeggiatorGate="0x00000000"
+		portamento="0x80000000"
+		compressorShape="0xDC28F5B2"
+		oscAVolume="0x7FFFFFFF"
+		oscAPulseWidth="0x00000000"
+		oscBVolume="0x80000000"
+		oscBPulseWidth="0x00000000"
+		noiseVolume="0x80000000"
+		volume="0xFE000000"
+		pan="0x00000000"
+		lpfFrequency="0x7FFFFFD2"
+		lpfResonance="0x80000000"
+		hpfFrequency="0x80000000"
+		hpfResonance="0x80000000"
+		lfo1Rate="0x26000000"
+		lfo2Rate="0x00000000"
+		modulator1Amount="0x80000000"
+		modulator1Feedback="0x80000000"
+		modulator2Amount="0x80000000"
+		modulator2Feedback="0x80000000"
+		carrier1Feedback="0x80000000"
+		carrier2Feedback="0x80000000"
+		modFXRate="0xC7AE146E"
+		modFXDepth="0xAE147AD9"
+		delayRate="0xF0000000"
+		delayFeedback="0x80000000"
+		reverbAmount="0x0A000000"
+		arpeggiatorRate="0x00000000"
+		stutterRate="0x00000000"
+		sampleRateReduction="0x80000000"
+		bitCrush="0x80000000"
+		modFXOffset="0x00000000"
+		modFXFeedback="0x1EB851CF">
+		<envelope1
+			attack="0x80000000"
+			decay="0xE6666654"
+			sustain="0x7FFFFFFF"
+			release="0x9A000000" />
+		<envelope2
+			attack="0xE6666654"
+			decay="0xE6666654"
+			sustain="0xFFFFFFE9"
+			release="0xE6666654" />
+		<patchCables>
+			<patchCable
+				source="velocity"
+				destination="volume"
+				amount="0x3FFFFFE8" />
+			<patchCable
+				source="random"
+				destination="pitch"
+				amount="0x0147AE14" />
+		</patchCables>
+		<equalizer
+			bass="0x00000000"
+			treble="0x00000000"
+			bassFrequency="0x00000000"
+			trebleFrequency="0x00000000" />
+	</defaultParams>
+	<arpeggiator
+		mode="off"
+		numOctaves="2"
+		syncLevel="7" />
+	<modKnobs>
+		<modKnob controlsParam="pan" />
+		<modKnob controlsParam="volumePostFX" />
+		<modKnob controlsParam="lpfResonance" />
+		<modKnob controlsParam="lpfFrequency" />
+		<modKnob controlsParam="env1Release" />
+		<modKnob controlsParam="env1Attack" />
+		<modKnob controlsParam="delayFeedback" />
+		<modKnob controlsParam="delayRate" />
+		<modKnob controlsParam="reverbAmount" />
+		<modKnob controlsParam="volumePostReverbSend" patchAmountFromSource="compressor" />
+		<modKnob controlsParam="pitch" patchAmountFromSource="lfo1" />
+		<modKnob controlsParam="lfo1Rate" />
+		<modKnob controlsParam="portamento" />
+		<modKnob controlsParam="stutterRate" />
+		<modKnob controlsParam="bitcrushAmount" />
+		<modKnob controlsParam="sampleRateReduction" />
+	</modKnobs>
+</sound>
